@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Design Systems · Orlando Antonio</title>
+<style>
+  :root { color-scheme: light; }
+  body { margin: 0; background: #fbf7ef; color: #111; font: 16px/1.6 Georgia, serif; }
+  main { max-width: 640px; margin: 0 auto; padding: 64px 20px; }
+  h1 { font-size: 28px; margin: 0 0 8px; }
+  p { color: #5b5750; margin: 0 0 24px; }
+  ul { list-style: none; padding: 0; margin: 0; display: grid; gap: 12px; }
+  a.ds { display: flex; justify-content: space-between; align-items: center; padding: 18px 20px; border: 1px solid #e6dfd1; border-radius: 14px; color: inherit; text-decoration: none; }
+  a.ds:hover { background: #f4eee2; }
+  code { font: 13px ui-monospace, Menlo, monospace; color: #5b5750; }
+</style>
+</head>
+<body>
+<main>
+  <h1>Design systems</h1>
+  <p>Each link opens the shared popup with a different design system. On the portfolio, any link to <code>#ds-&lt;id&gt;</code> does the same.</p>
+  <ul>
+    <li><a class="ds" href="#ds-bbb">Big Blue Bus <code>#ds-bbb</code></a></li>
+    <li><a class="ds" href="#ds-example">Example <code>#ds-example</code></a></li>
+  </ul>
+</main>
+<script src="ds-engine.js" data-default="bbb"></script>
+</body>
+</html>
