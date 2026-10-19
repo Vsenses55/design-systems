@@ -60,12 +60,12 @@
       name: 'Two sides, one system',
       uses: 'Breadcrumb · DayButton · ListCard · FavoriteButton · SignUp, on The Fair or Fairgrounds tokens',
       width: 12,
-      html: '<div class="nx nx-a" data-side="fair"><div class="nx-a-side">' +
-        '<div class="nx-switch" role="group" aria-label="App side"><button type="button" aria-pressed="true" data-side="fair">The Fair</button><button type="button" aria-pressed="false" data-side="fairgrounds">Fairgrounds</button></div>' +
+      html: '<div class="nx nx-a" data-side="fairgrounds"><div class="nx-a-side">' +
+        '<div class="nx-switch" role="group" aria-label="App side"><button type="button" aria-pressed="false" data-side="fair">The Fair</button><button type="button" aria-pressed="true" data-side="fairgrounds">Fairgrounds</button></div>' +
         '<ul class="nx-a-list"><li><b>Bars:</b> Irish Green with Lalezar titles, or slate with PT Sans Narrow.</li><li><b>Tabs:</b> navy days with a Pomegranate selection, or grey months with French Blue.</li><li><b>Shape:</b> 15px tabs and pill buttons, or square 4px corners.</li><li><b>Try it:</b> arrow keys move between tabs, hearts save a row, Sign up checks the email.</li></ul>' +
         '<p class="d-live" data-live aria-live="polite"></p><p class="nx-sample">Schedule entries are sample data.</p></div><div class="nx-phone" data-phone></div></div>',
       init: function (el) {
-        var root = el.querySelector('.nx'), phone = el.querySelector('[data-phone]'), live = el.querySelector('[data-live]'), id = NX.uid('a'), side = 'fair', tab = { fair: 0, fairgrounds: 0 }, fav = {};
+        var root = el.querySelector('.nx'), phone = el.querySelector('[data-phone]'), live = el.querySelector('[data-live]'), id = NX.uid('a'), side = 'fairgrounds', tab = { fair: 0, fairgrounds: 0 }, fav = {};
         var D = {
           fair: { title: 'Daily schedule', label: 'Day', tabs: [['Fri, Sept 14', 'Day 1'], ['Sat, Sept 15', 'Day 2'], ['Sun, Sept 16', 'Day 3']], rows: [
             [['State Fair 4-H Dog Show', '9am · Toyota Coliseum'], ['Hollywood Racing Pigs', '12:30pm · Family Fun Zone'], ['Bandaloni the One Man Band', '3pm · Chevy Court']],
