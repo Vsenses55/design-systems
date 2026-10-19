@@ -5,6 +5,7 @@ One popup for every design system on visualsenses.design. The engine loads once,
 ```
 ds-engine.js          the popup: shell, open/close, starter components, color/type/spacing/accessibility sections
 systems/bbb.js        Big Blue Bus (City of Santa Monica), with its own working components
+systems/nysf.js       NYSF App (The Fair + Fairgrounds), with its own working components
 systems/example.js    starter-only example to copy for a new project
 index.html            test page listing every system
 ```
