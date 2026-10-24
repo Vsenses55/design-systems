@@ -1,0 +1,53 @@
+<svg width="145" height="95" viewBox="0 0 145 95" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+<g id="Components">
+
+<g id="COMPONENTS">
+
+<g id="Controls Overview">
+
+<g id="Panel=Moving">
+
+<g id="Graphic">
+<g id="Keys">
+<g id="Keys_2">
+<g id="Rectangle 13">
+<path id="Vector" d="M84 1H61C55.4772 1 51 5.47715 51 11V34C51 39.5228 55.4772 44 61 44H84C89.5228 44 94 39.5228 94 34V11C94 5.47715 89.5228 1 84 1Z" stroke="white" stroke-width="2"/>
+</g>
+<g id="Rectangle 14">
+<path id="Vector_2" d="M84 51H61C55.4772 51 51 55.4772 51 61V84C51 89.5228 55.4772 94 61 94H84C89.5228 94 94 89.5228 94 84V61C94 55.4772 89.5228 51 84 51Z" stroke="white" stroke-width="2"/>
+</g>
+<g id="Rectangle 16">
+<path id="Vector_3" d="M34 51H11C5.47715 51 1 55.4772 1 61V84C1 89.5228 5.47715 94 11 94H34C39.5228 94 44 89.5228 44 84V61C44 55.4772 39.5228 51 34 51Z" stroke="white" stroke-width="2"/>
+</g>
+<g id="Rectangle 15">
+<path id="Vector_4" d="M134 51H111C105.477 51 101 55.4772 101 61V84C101 89.5228 105.477 94 111 94H134C139.523 94 144 89.5228 144 84V61C144 55.4772 139.523 51 134 51Z" stroke="white" stroke-width="2"/>
+</g>
+</g>
+<g id="Arrow">
+<path id="Line 9" d="M72.5 13.5V28.5" stroke="white" stroke-width="2" stroke-linecap="round"/>
+<path id="Line 10" d="M72.5 13.5L66.5 19.5" stroke="white" stroke-width="2" stroke-linecap="round"/>
+<path id="Line 11" d="M72.5 13.5L78.5 19.5" stroke="white" stroke-width="2" stroke-linecap="round"/>
+</g>
+<g id="Arrow_2">
+<path id="Line 9_2" d="M72.5 79.5V64.5" stroke="white" stroke-width="2" stroke-linecap="round"/>
+<path id="Line 10_2" d="M72.5 79.5L78.5 73.5" stroke="white" stroke-width="2" stroke-linecap="round"/>
+<path id="Line 11_2" d="M72.5 79.5L66.5 73.5" stroke="white" stroke-width="2" stroke-linecap="round"/>
+</g>
+<g id="Arrow_3">
+<path id="Line 9_3" d="M130 72H115" stroke="white" stroke-width="2" stroke-linecap="round"/>
+<path id="Line 10_3" d="M130 72L124 66" stroke="white" stroke-width="2" stroke-linecap="round"/>
+<path id="Line 11_3" d="M130 72L124 78" stroke="white" stroke-width="2" stroke-linecap="round"/>
+</g>
+<g id="Arrow_4">
+<path id="Line 9_4" d="M15 72H30" stroke="white" stroke-width="2" stroke-linecap="round"/>
+<path id="Line 10_4" d="M15 72L21 78" stroke="white" stroke-width="2" stroke-linecap="round"/>
+<path id="Line 11_4" d="M15 72L21 66" stroke="white" stroke-width="2" stroke-linecap="round"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</svg>

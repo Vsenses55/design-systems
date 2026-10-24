@@ -1,0 +1,19 @@
+<svg width="120" height="120" viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+<g id="Components">
+
+<g id="COMPONENTS">
+
+<g id="Direction Controller">
+
+<g id="State=Press">
+<rect x="0.5" y="0.5" width="119" height="119" rx="29.5" fill="#0064FF" fill-opacity="0.1"/>
+<rect x="0.5" y="0.5" width="119" height="119" rx="29.5" stroke="#44557C"/>
+<rect id="Rectangle 317" x="10.5" y="10.5" width="99" height="99" rx="39.5" fill="#00091C" fill-opacity="0.95" stroke="#0064FF"/>
+<path id="Overlay" d="M60 47C67.1797 47 73 52.8203 73 60C73 67.1797 67.1797 73 60 73C52.8203 73 47 67.1797 47 60C47 52.8203 52.8203 47 60 47Z" fill="#00091C" fill-opacity="0.95" stroke="white" stroke-width="2"/>
+<path id="Vector" d="M90 48C90 41.3726 84.6274 36 78 36C71.3726 36 66 41.3726 66 48C66 54.6274 71.3726 60 78 60C84.6274 60 90 54.6274 90 48Z" fill="#0064FF"/>
+</g>
+</g>
+</g>
+</g>
+</svg>

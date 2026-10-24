@@ -1,0 +1,21 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+<g id="Components">
+
+<g id="COMPONENTS">
+
+<g id="Button White">
+
+<g id="State=Default">
+
+<g id="ICON">
+<circle id="Ellipse 1" cx="16" cy="16" r="16" fill="#0064FF"/>
+<path id="Line 9" d="M23.75 16H8.75" stroke="white" stroke-width="2" stroke-linecap="round"/>
+<path id="Line 10" d="M23.75 16L17.75 10" stroke="white" stroke-width="2" stroke-linecap="round"/>
+<path id="Line 11" d="M23.75 16L17.75 22" stroke="white" stroke-width="2" stroke-linecap="round"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</svg>

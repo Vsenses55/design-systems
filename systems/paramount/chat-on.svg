@@ -1,0 +1,22 @@
+<svg width="22" height="19" viewBox="0 0 22 19" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+<g id="Components">
+
+<g id="COMPONENTS">
+
+<g id="Frame 134">
+<g id="Button Chat">
+
+<g id="State=Selected, Active=True" clip-path="url(#clip0_3160_224)">
+<path id="chat" d="M5.01196 18.994C4.65096 18.905 4.729 17.818 4.729 17.818V14.518C1.729 13.084 0 10.698 0 7.96301C0 3.57101 4.92703 -0.000976562 10.983 -0.000976562C17.039 -0.000976562 21.965 3.57101 21.965 7.96301C21.965 12.355 17.038 15.927 10.983 15.927C10.261 15.927 9.06896 15.786 8.56396 15.727L6.17297 18.177C6.17297 18.177 5.37296 19.083 5.01196 18.994Z" fill="#0064FF"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_3160_224">
+<rect width="21.965" height="19" fill="white"/>
+</clipPath>
+</defs>
+</svg>

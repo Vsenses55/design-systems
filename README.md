@@ -10,6 +10,7 @@ systems/lakings.js    LA Kings Insider, with its own working components (images 
 systems/sherri.js     Sherri Show TV, with its own working components
 systems/lfb.js        Lead From Behind (Colorectal Cancer Alliance), with its own working components
 systems/sanclemente.js City of San Clemente homepage concept, with its own working components (images in systems/sanclemente/)
+systems/paramount.js  Paramount VX virtual event platform, with its own working components (images in systems/paramount/)
 systems/example.js    starter-only example to copy for a new project
 index.html            test page listing every system
 ```
