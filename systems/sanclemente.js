@@ -286,10 +286,9 @@
   var S = '#ds-popup [data-ds="sanclemente"]';
   C.css = [
     '$ { --head: "Signika", Arial, sans-serif; --navy: #0B366A; --deep: #07192E; --warm: #F4D193; --evt: #0D4281; --stone: #AFA683; }',
-    '$ .p-sec > h3 { font: 700 32px/40px var(--head); color: var(--deep); }',
+    '$ .p-sec > h3 { color: var(--deep); }',
     '$ .r-type:nth-child(-n+7) .r-sample { font-family: var(--head); }',
     '$ .r-type:nth-child(13) .r-sample { text-transform: uppercase; letter-spacing: 1.5px; }',
-    '$ .d-name { font: 600 20px/28px var(--head); letter-spacing: .15px; }',
     '$ .d { gap: 28px; }',
     '$ .d-head { margin-bottom: -4px; }',
     '$ .d-live { padding-top: 12px; border-top: 1px solid #ECEAE6; }',
