@@ -106,6 +106,14 @@
           if (m) inp.focus(); else inp.value = '';
         });
         phone.addEventListener('input', function (e) { if (e.target.matches('input')) { e.target.setAttribute('aria-invalid', 'false'); phone.querySelector('.nx-su-err').textContent = ''; } });
+        /* The popup keeps its state between opens, so go back to the Fairgrounds default whenever it closes. */
+        var pop = document.getElementById('ds-popup');
+        if (pop && window.MutationObserver) new MutationObserver(function () {
+          if (pop.getAttribute('aria-hidden') !== 'true' || side === 'fairgrounds') return;
+          side = 'fairgrounds'; NX.setSide(side);
+          el.querySelectorAll('.nx-switch button').forEach(function (x) { x.setAttribute('aria-pressed', String(x.dataset.side === side)); });
+          render(false); live.innerHTML = '';
+        }).observe(pop, { attributes: true, attributeFilter: ['aria-hidden'] });
         render(false);
       }
     },
